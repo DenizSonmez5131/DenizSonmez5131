@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm 18 and I'm freshman at Bilkent University
+I'm currently learning Java
+
 
 <!--
 **DenizSonmez5131/DenizSonmez5131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
