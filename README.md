@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm 18 and I'm freshman at Bilkent University
+I'm 19 and I'm studying at Bilkent University
 I'm currently learning Java
 
 
