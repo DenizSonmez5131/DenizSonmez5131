@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm 19 and I'm studying at Bilkent University
-I'm currently learning Java
+I'm 20 and I'm studying @ Bilkent University
+I'm currently on my Junior Year
 
 
 <!--
